@@ -1,565 +1,250 @@
 [[Powsybl]]
 arch = "aarch64"
-git-tree-sha1 = "4fad3fb3ff7354cae578f8815305bf0f240af7e2"
+git-tree-sha1 = "ab034887526e750628adf3fba2d980013018c69a"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "37353dc2f6b189052174cb52e32dc727d41fe6e896d62348295d2103e6eec954"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "a1af2ed24a439b2df55cc916bc41df55a90e2830d6e07e5b6742e3fd6cb1201d"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Powsybl]]
 arch = "aarch64"
-git-tree-sha1 = "a7f9c741a665b6baa3eac24e3f5e62ebcf95c6ce"
+git-tree-sha1 = "319cba5640181b3d9928c7d264f307e4364e7769"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "9e8d40a052d8b38f5070995800547f05ed768e8dfb33b6557fbd80998cf8250c"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "e6550012f16289574b05be77f58203530814f86de8fb8299842677438458c308"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Powsybl]]
 arch = "aarch64"
-git-tree-sha1 = "45f61aa0483dbd2e9e7bc82240c68b8ee0daa899"
+git-tree-sha1 = "c3a8baa23ad3a2953533cb15c5f5279425546151"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "e5feea86505c2a5de53a65472b7c542220848717954623535f8b9ffee033d400"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "5fc660a738e3738ea17b7e6d5817aa5dfd29cb4b441b88e165f19c184996228d"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[Powsybl]]
 arch = "aarch64"
-git-tree-sha1 = "97ee08d32b0c73424b5a85b10c5a5ae3a8263db1"
-julia_version = "1.7.0"
+git-tree-sha1 = "a10293911f72a4b8db551c514e334dbf89b59e78"
+julia_version = "1.13.0"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "22eb6de67b0d758e789010c9967a87b9adcfd5214ad5462e92b96db56c49b10a"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "08ab895749b244e93af461f344e75069f0527bae8288dedd8be292abb92a5096"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[Powsybl]]
 arch = "aarch64"
-git-tree-sha1 = "a03d1d089fef75d2ae826a5d637e4a9a5e51d67a"
-julia_version = "1.8.2"
+git-tree-sha1 = "9be6bbb5942a8ed3e7766f57b1e314e58aaf718b"
+julia_version = "1.14.0"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "a06be56f7f0e8ad1add86b7356f90b0992b8abdc9e998f1fa9aa58d8ad19c9f1"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
-[[Powsybl]]
-arch = "aarch64"
-git-tree-sha1 = "87b82dcbfcb4eec6c9cf3ab2c467a67166330777"
-julia_version = "1.9.0"
-os = "macos"
-
-    [[Powsybl.download]]
-    sha256 = "b85262b99f38aaa4343d9112272b3c7c8b2cdfafcd920690492d21b117dc1e4e"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "bee0b4807093ee06a8677596670a693ce409259ddaa4952b2c72583911c4f1f2"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-git-tree-sha1 = "aa5761b2ab8f716c02faddc67d444071546bb8c3"
+git-tree-sha1 = "6f0094f3c305890c462df27ece42dc2276a2fbe0"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "4f54457200b9a44731d6b745520b63e51cf2bf70e17a3847bb46b0eb791c7316"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "87224e6b37d17f2d1110b58f1f2d6724b94a1cec864e53e9718605f019fdfcd0"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-git-tree-sha1 = "97fb25a3b3f27fd95398c5a27428beee15622a71"
+git-tree-sha1 = "c4971cbf93aeba91aa9e32fb2d7cece61e4a413e"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "09215211b81b2099c8fdc2e0dd96dab13b79dea36c5c1c54f01e7cb98e9ccac9"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "38577d9b90f343169f8e0a98feb700bd9466d4f029e09b1e7c8cafe59f80d93f"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-git-tree-sha1 = "d5b0474e9ec5fc15026861aeafeef155fdce8ba4"
+git-tree-sha1 = "566b3f7f86dbadab312505d7405ab5e72f5166f5"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "cc5c451d72676151e77a71390c2b7ae2d4de18d2eec6de56b15b53f5e07da5ff"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "ddb5b3783008ea6652f9a50a1f2f6b98eadb4ec2476b4381a697236c4c2ff56a"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-git-tree-sha1 = "42b3f8d46bc976fe87ce038a7234a0516bbe2169"
-julia_version = "1.6.3"
+git-tree-sha1 = "ee0e4d91fe86be50e39db3e06b10c49fb4e9972a"
+julia_version = "1.13.0"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "53e6672b9cdfc6e2a6762c295866329e2468f6245c04e4ddf06d47027f082647"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "ecdccaf92370306e50c8e8f3fc70c8b18cfcad46b0e8d3e0220c400218e08120"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-git-tree-sha1 = "4edfd69af74e9d96a38676054fa73cb4671f2a57"
-julia_version = "1.7.0"
+git-tree-sha1 = "872243f9dd26b69dd4fdf2c1609100d82b47446b"
+julia_version = "1.14.0"
 os = "macos"
 
     [[Powsybl.download]]
-    sha256 = "4bb74242e313bfe9cbef67ef4026348bc83dc0ddeb0ad8d473b0c27a062dc78d"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "3d5ccdbc9be00c64adc46e6cbc9f563bdd253a5f85e23798591bf1da3ac00b2c"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-git-tree-sha1 = "2531d252b40b9655dba843a99755df588abe53f9"
-julia_version = "1.8.2"
-os = "macos"
-
-    [[Powsybl.download]]
-    sha256 = "395385412fffe0d2918d873c4f23d82c662b01a05bd54d3f9b78975dd71ae055"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-git-tree-sha1 = "acc5fb09ad06cd681a5e8b369a7892fe1e905e12"
-julia_version = "1.9.0"
-os = "macos"
-
-    [[Powsybl.download]]
-    sha256 = "34124016159e36c15ee0a447f24d34a95c02ab1206a95269a6f8b22cfdd6e164"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1d712fdab10a002ba67654f33d234b057d291681"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d48680565e206ba39268700ea6585db2b641b09"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "c0332b196085c6cc29fe617f6a30eeb260c2777f820a922e1bf75835b7c53f77"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "a1cdf50288ec040512a1f3b15ed2aa518aa54f568eaa0cc916d56513a2ec4909"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7a270d2679a4ef3bd8bfbbe7251a97cec451f704"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d6a07aef8a6e395f1c0f6b0a80567a90fec7273"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "87fcabcc60d0d8e68af8c7cb29d77205cf9bcff6265e2e9db6b2b6f1b44d7d38"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "50f3f3c83a57799e77f453998596c41e58de55396ef309ba43f2d4f55a29e5b2"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "35881809e5ba5284fcdbfb587720917ae5990857"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c7359a18b5a1225d9196f5927bb885c598d2411a"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "1434db4158b9bf507b99162f3b03cff572bf2a0c3a997d02a17acab5149e194a"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "3167a3f7c7c5f98b346dfcb0a8a461f8065a185d"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "7c61894f19bddd312cfc9a6edba10e8122aaf88c344c650c26cb94b3208cff0c"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7bfce4b07f4e7625a54ad23f1e9e162c00775b4f"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "48b9e3b4413b8d4d8cdccf37307df06b49e38b097dfb0f9954d1cf496788213d"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "dba870304a244fb44da70f2c8a2d035fb90f7ad3"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "3b748b9ef4645b30ca27fbf0d727fa399c1f45d8aac36321e04356f82eaeb6f2"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "88ce69e98b3f090e4b9fe65113b8e5cd57df0948"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "ea5f656a074b459f0b3969d13fc7e894e4407fe9f883d7558c2159088ffdeaf6"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "c19da6b5308413f1447e5eae1a33edf2fd64fb5dbb830701d598366cf4926511"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "29a861387c26200873c0dccce8d56020d31741f6"
-julia_version = "1.10.0"
+git-tree-sha1 = "368e0702ab403e19b695951ee6e2eba189ea4773"
+julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "107cf7532a261e63c283afff94f3809c6a71299be257eff52421c1ecd4c9fe7d"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "b3ea6e7a4f2f9b4f6575e133d9d8b97a99a1931061f369b635747b6cccd03dde"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b4c57d508cc7134f992b1a1ffaacad5b5bb9caa"
-julia_version = "1.11.1"
+git-tree-sha1 = "716a7e95182d5227449b70e48bbce4d024fa9321"
+julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "9bd13c4eae54e60b1ffa3c8189521604d15e3422cae8ad38d1340213bc29c321"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "44095ad718bede88bde05a0ab91734fb31a9172e457ba7581b7890ff7ac45b49"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fbe61c85847649b12a0e75b4d05a58c976b90f67"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "38db934a262c1eea1c4825e22136c1ac45c610654660b0ebdad83c448d262989"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f1de74a789c06c71552164e573dfa51ff0bdc863"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "4c98a1934d96eb4b9bc964703546914cdb5000763e58fbe67cff05867539a4ed"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f03f13ce6ce1ccd8f1c2f574a501ea8929ad4e0e"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "0528e108804923b2e8a1f3142c62f469b448c8b545ef80571ee2820302f65aaf"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "21450fbd4ef13087c817eea217ffa9b1c0db6ca0"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "fd8018753071da194db8d099e335f6d23b7a4047750d3c42f99812cabb4731f8"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4e6461f3309e14def4ce86b72f03341669492836"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "df3d1097893d269696c602f7c83db9ca881f0292181b9c82bda92a71ea52384e"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8af1fd9e5825d52fe3c740af6e94517b353e443b"
+git-tree-sha1 = "31158b0a802fc3c41f6cdc9c06be2f84a005697d"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "1ca5561409a33434b30dba14e2ee266b37d7dc02014f41c72861afd71c530083"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "aa943fefd3d1c2017e132f2232faa36bf29ce7179dd8e5a4190a129b75eaf8d3"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5e2cc44974a1190fcc9d2a51ed5cbeb88854682b"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cc051d2f38f2db1e70bf5eea37a0e77959c52bb3"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "8d4c570a6d4bfdeeebdc16b9cb337e4fe301eb25d8bdce587a93eb9cc472c8f6"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "b20c7d5321d395a906173da28e0a96f8abc4806295e313d407572b006e88d234"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "381281bd766d332016bb178d7c71df1aaf328435"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c9c6fd3b12f30db89030161c7681bd39fbc02a7"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "6f13b0f46dbb6052afc1d8fcd9951e57217790577dab291d1979de94b63363d0"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "85714352563b03cb1308d06a3fd35047c88da005"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "cd00d645202c6c0c9cbf56e2ce1b345425ea4a520728049583f2cbfd630d2334"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a6cc50be6cf0b8d592719c25cb8ec0e877ac2a7e"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "515437c369f2f6118bfd38c5d612088c5094c6104450b92f4a87705982ef4d5d"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e8f20982375e71a6f5c050dcdb7a8d84f5f862d3"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "440999617a92993415efb8bad7e94ce6ff9bbe08615fa0a35297169ce78f8204"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1e78d579b5e1a8b37d0b4ae604af2c85bb5817b2"
-julia_version = "1.9.0"
-libc = "musl"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "070b6f98554afd14dd6a6d1a4b385d70f3dc669a96fbc1a6c075ed0d478114f6"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "310231875cf7133560ec00d4ef7e526f0a4aca1ddf17f83bf138f7dca7f865fd"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "25a0a5da35acbea5aca0ac2253cdedc4a475b47b"
-julia_version = "1.10.0"
+git-tree-sha1 = "7aa8a1bf9925e2931e1d7d43564e5a2e1e368be3"
+julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "c84aadcdbd092c38618641575094213cbb06255da6028861f3c8c76807833d6d"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "fdc82b5bbf47867c09f69b37bfdaac58db6a20547781768a82c689e3d4efd1e0"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c20e6662045ce2f48602fe3ceb6b047546eef1db"
-julia_version = "1.11.1"
+git-tree-sha1 = "d6a9bbc98ba51d88410a80d6cda25bd7644ddae2"
+julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[Powsybl.download]]
-    sha256 = "a7a66ade0e37c1b508253b55fc39e3a5984983315168dffe53c909977623b8af"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "0fb8c56fa2055555f571c5f01ed8bc1caf889ba12533d2039845cccb89fa7a8d"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b0bd8e14ce13fdc51af0a5965cb8a226427d192"
-julia_version = "1.12.0"
-libc = "musl"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "31e015de339ab86e0d69d7615df0b8844d188d864f0a3887a1afec333b072a8e"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "38b8a2a7503f986a2d3134cfc77e6fea7eabeb02"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "2cca093c1faad189a8fcf94d8373a28ee140e7f4077d104dd6f8012092d9bf25"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a71752f63b60acb3dd81aab641c4f71de2e213c1"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "91b109c95536baf6e39939cfcbf7350004dc5fb5e040c23d57fb7579a30a73a3"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f1c935c522bc9bd0af01999b1e0f6b76994fd6cf"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "1f8dbea58e68af88d601cd4dd4b6c6cf76415b50cc168bf38c69522d118aa386"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5df58b6c3f8880ec3808e9bcf9759097b6ef0897"
-julia_version = "1.9.0"
-libc = "musl"
-os = "linux"
-
-    [[Powsybl.download]]
-    sha256 = "d1bc5b4ee1231c827e105fa162604710bc65f3e37e1739ac550b3df35dc026e9"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "56a9716c6db9aa74672f250b10aeafe7bb4e05d1"
+git-tree-sha1 = "29e492e27f92d656e273c237b0f6efbb5e213e70"
 julia_version = "1.10.0"
 os = "windows"
 
     [[Powsybl.download]]
-    sha256 = "542d3cbf7173b49fd6f15edc43f675041906961358a34425725e028e3b917d7d"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "1e48f5f3f718cc7ccd22da1f1e0a140fdfd14df970b9e9250d5c0c0c25168ed4"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e997bed3c672df8322ca21de003d4610d80a2080"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b463b572458f3e9aa88710ecc2b37800f7b2dcc"
 julia_version = "1.11.1"
 os = "windows"
 
     [[Powsybl.download]]
-    sha256 = "0508da9b851eef163ddb1ea8f004516c380c27d2d5fd77fb02da9fc5d99741af"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "984f248189c555544c12afc4c9a92a29a23e39a9d2bf564b31a849acd775b144"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "746e7db03ae54e5e0ed3fb178a3ea14ba1dafc2c"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7471f25ade7b31fe55d3ddf3b43b00afe8f8062"
 julia_version = "1.12.0"
 os = "windows"
 
     [[Powsybl.download]]
-    sha256 = "b20444fedb49975d51e490b63bd83b0dc93fe4c444ce42858b88308ec128cc0f"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c989c3aab9722109fe7a01d9e48d358306015e0"
-julia_version = "1.6.3"
-os = "windows"
-
-    [[Powsybl.download]]
-    sha256 = "784fba0759928f4008441bbf4974b3faa5ce4f38629261fbd2d65b83fada5825"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7c1a07a6e291fbcfe73ee8e0456ee17da2c620a9"
-julia_version = "1.7.0"
-os = "windows"
-
-    [[Powsybl.download]]
-    sha256 = "171ea1be7f1ae62e91b647cc09543acacb6d1fe5ac160cca579d0d53863a7855"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6d5d3253aad426a42d5e5b8fc0159f7eb5bead4a"
-julia_version = "1.8.2"
-os = "windows"
-
-    [[Powsybl.download]]
-    sha256 = "988d78d28210abc228c91ae9eb5cfe6f24b4a4b33c65000164afb861bceff155"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c72fc72d7ecbd3b68324b68f307f7081702f76a0"
-julia_version = "1.9.0"
-os = "windows"
-
-    [[Powsybl.download]]
-    sha256 = "b15b256caff6462a853c201c1688d925790f65535f1c59c412245b7a13d343c2"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "9b8e28d0043fb301392c8affcb1aa07cd67cf9ebe45866209ce052b8e525bea0"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5cc8d557180b009823ed5b40ecb1dc699cb52a84"
-julia_version = "1.10.0"
+git-tree-sha1 = "42b863c229a7e024d396b7f3ffa95112c17c6347"
+julia_version = "1.13.0"
 os = "windows"
 
     [[Powsybl.download]]
-    sha256 = "fd1ca6e47d1b84b079f64ab2b41cdf2f3e304aac3f98b670e3349e6f95ff727a"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "5558b55ab0818e1e1a09ef867fd3f06fdc960a6240c005a22b881e54af5e48b0"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
 [[Powsybl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "73b57f16a02cee45236e9893f91ba1cfe7e44201"
-julia_version = "1.11.1"
+git-tree-sha1 = "42b863c229a7e024d396b7f3ffa95112c17c6347"
+julia_version = "1.14.0"
 os = "windows"
 
     [[Powsybl.download]]
-    sha256 = "a888579eea9f7f5cc0b3e1a470b01a20f03418d5338105941ada4e489c9e1b54"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "da6be40805156b5d8eb8c28c23cdfba8322c03dd"
-julia_version = "1.12.0"
-os = "windows"
-
-    [[Powsybl.download]]
-    sha256 = "61fa0fd00cfeb93b3bc21a1c173d7387ccfcb1cb9c90c5b52f8660788498af89"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1fefcb5b6967a90d610b22123c13a0b1f48eea8b"
-julia_version = "1.6.3"
-os = "windows"
-
-    [[Powsybl.download]]
-    sha256 = "d79b1d781792494dd24e994196f170200da4238e0f56b3eecca980fdc29ffb3e"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "681c9fe60c310c17a2b9e4cfd9c378e3cf507fe9"
-julia_version = "1.7.0"
-os = "windows"
-
-    [[Powsybl.download]]
-    sha256 = "5488d853ee17718bf8b4328c9c50d5c4a05cf7e4708b05a4509891130db33261"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d961fefe7843a1b7912dc474717ef781284c978"
-julia_version = "1.8.2"
-os = "windows"
-
-    [[Powsybl.download]]
-    sha256 = "b0c98cfdcb85ae20cf7287e1e6ab27a5941ff010f7f206808f54e79de2a2e3a8"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
-[[Powsybl]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8bcbc0eb6bcd121c28bb9420f8c7ff55c3277005"
-julia_version = "1.9.0"
-os = "windows"
-
-    [[Powsybl.download]]
-    sha256 = "82bc4683e197dbb89068859c027c09d3d43267f536e585a493d6d534c0b33c2b"
-    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.2.0+0/Powsybl.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "5558b55ab0818e1e1a09ef867fd3f06fdc960a6240c005a22b881e54af5e48b0"
+    url = "https://github.com/JuliaBinaryWrappers/Powsybl_jll.jl/releases/download/Powsybl-v0.3.0+0/Powsybl.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
